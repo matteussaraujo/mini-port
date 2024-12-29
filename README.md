@@ -24,8 +24,6 @@ Este projeto é uma aplicação **React** utilizando **TypeScript** e **Tailwind
    cd mini-port
 
 2. Instale as dependências:
-  bash
-  Copiar código
   npm install
 
 3. Inicie o servidor de desenvolvimento:
